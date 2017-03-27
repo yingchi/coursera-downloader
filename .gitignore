@@ -1,0 +1,4 @@
+backup
+downloaded
+*.json
+__pycache__
