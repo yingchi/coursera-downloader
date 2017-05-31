@@ -23,3 +23,4 @@ Note:
 Materials that opens in a new tab, such as iPython notebooks can not be downloaded.
 If you want to change the default settings, you can find it in the `coursera-downloader.py` file. 
 
+欢迎feedback~ 都加油学习哟，笔芯~
