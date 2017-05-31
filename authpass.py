@@ -1,8 +1,8 @@
 import os
 from Crypto.Cipher import AES
 
-key1 = 'ἀλήθεια,καὶἡζωή'    # 32 bits in utf-8
-key2 = 'Ἰησοῦς88'           # 16 bits in utf-8
+key1 = 'ἀλήθεια,καὶἡζωή'    # 32 bytes in utf-8
+key2 = 'Ἰησοῦς88'           # 16 bytes in utf-8
 key1 = key1.encode('utf-8')
 key2 = key2.encode('utf-8')
 
