@@ -7,9 +7,9 @@ This project is based on 2 other projects:
   - [Coursera Donwloader 2](https://github.com/jansenicus/www-coursera-downloader)
 
 To run:
-1. download the repo 
-2. cd to the repo folder
-3. type `python coursera-downloader.py` in your command line
+1. download the repo zip or clone the repo: `git clone https://github.com/yingchi/coursera-downloader.git`
+2. cd to the repo folder: `cd coursera-downloader`
+3. run the main script: `python coursera-downloader.py`
 
 You will be prompted to provide your log in credentials. Your username and password will be saved to an encrypted files for next use.
 
