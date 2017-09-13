@@ -13,7 +13,8 @@ No guarantee for the performance in other setting, but you can always try out fi
 #### To run:
 1. download the repo zip or clone the repo: `git clone https://github.com/yingchi/coursera-downloader.git`
 2. cd to the repo folder: `cd coursera-downloader`
-3. run the main script: `python coursera-downloader.py`
+3. open `coursera-downloader.py` with your favoriate editor, and change the 'path' value in 'default_args' to your favoriate path.
+4. run the main script: `python coursera-downloader.py`
 
 You will be prompted to provide your log in credentials. Your username and password will be saved to an encrypted files for next use.
 
